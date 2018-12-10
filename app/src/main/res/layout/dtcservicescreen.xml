@@ -22,7 +22,7 @@
        android:layout_alignParentLeft="true"
        android:layout_alignParentRight="true"
        android:layout_alignParentTop="true" 
-       android:background="@color/green">
+       >
 
 
 
@@ -40,7 +40,7 @@
            android:gravity="center"
            android:height="22dp"
            android:text="DTC SERVICES"
-           android:textColor="@color/Marom"
+           android:textColor="#f9f9f9"
            android:textSize="18dp"
            android:textStyle="bold"
            android:typeface="serif" />
@@ -86,7 +86,7 @@
            android:layout_weight="1"
            android:gravity="center"
            android:text="Stop Detail"
-           android:textColor="@color/Marom"
+           android:textColor="@color/Black"
            android:textSize="19dp"
            android:textStyle="bold"
            android:typeface="serif" />
@@ -140,7 +140,7 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:text="Route Detail"
-           android:textColor="@color/Marom"
+           android:textColor="@color/Black"
            android:textSize="19dp"
            android:textStyle="bold"
            android:typeface="serif" />
@@ -185,7 +185,7 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:text="Customer Care"
-           android:textColor="@color/Marom"
+           android:textColor="@color/Black"
            android:textSize="19dp"
            android:textStyle="bold"
            android:typeface="serif" />
@@ -244,7 +244,7 @@
            android:layout_height="match_parent"
            android:layout_weight="0.50"
            android:text="CLEAN DELHI GREEN DELHI"
-           android:textColor="@color/green"
+           android:textColor="@color/BlueColor"
            android:textStyle="bold"
            android:typeface="serif"
            android:textSize="16dp"

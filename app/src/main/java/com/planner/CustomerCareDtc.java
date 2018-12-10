@@ -27,8 +27,7 @@ public class CustomerCareDtc extends Activity{
 		Mesg = "DTC Bhawan \n"+
 		"ITO, IP Estate\n"+
 		"New Delhi - 110002, India \n"+
-		"Contact No. - 011-233370236 \n"+
-		"\t \t -  011-23315085\n";
+		"Contact No. - 011-233370236 \n";
 		
 		detail = (TextView)findViewById(R.id.CCDTextViewDetail);
 		detail.setText(Mesg);
@@ -40,7 +39,7 @@ public class CustomerCareDtc extends Activity{
 				try {       
 					Intent intent = new Intent(Intent.ACTION_CALL);
 					intent.setData(Uri.parse("tel: +9111-100"));
-					Toast.makeText(getApplicationContext(), "Calling Delhi Police HeadQuator", 200).show();
+					Toast.makeText(getApplicationContext(), "Calling Delhi Police HeadQuator", Toast.LENGTH_SHORT).show();
 					startActivity(intent);      
 					} catch (Exception e) {
 						Log.w("Error calling ", " "+e.getMessage());
@@ -56,7 +55,7 @@ public class CustomerCareDtc extends Activity{
 				try {       
 					Intent intent = new Intent(Intent.ACTION_CALL);
 					intent.setData(Uri.parse("tel: +9111-101"));
-					Toast.makeText(getApplicationContext(), "Calling Delhi Fire Brigade", 200).show();
+					Toast.makeText(getApplicationContext(), "Calling Delhi Fire Brigade", Toast.LENGTH_SHORT).show();
 					startActivity(intent);      
 					} catch (Exception e) {
 						Log.w("Error calling ", " "+e.getMessage());

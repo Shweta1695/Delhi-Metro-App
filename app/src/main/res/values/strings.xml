@@ -6,7 +6,7 @@
     <string name="utilities">Taxi &amp; Offices</string>
     <string name="gpsmaps">Location &amp; Maps</string>
     <color name="Marom">#810541</color>
-    <color name="green">#00FF00</color>
+    <color name="orange">#d98e0c</color>
     <string name="BusStopName">Select Stop Name</string>
     <string name="blank">----------------------------------------------------------------</string>
     <color name="lightyellow">#FFF380</color>

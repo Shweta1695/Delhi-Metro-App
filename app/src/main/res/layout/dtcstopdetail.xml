@@ -23,9 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
-        android:background="@color/green"
-         >
+        android:layout_alignParentTop="true" >
 
 
         <ImageView
@@ -42,7 +40,7 @@
             android:typeface="serif"
             android:textStyle="bold"
             android:gravity="center"
-           android:textColor="@color/Marom"
+           android:textColor="#f9f9f9"
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
     </LinearLayout>
@@ -127,7 +125,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/textView5"
-        android:background="@color/green"
+        android:background="#f9f9f9"
         android:height="2dp"/>
 
 
@@ -156,7 +154,7 @@
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:text=" Show Detail "
-            android:textColor="@color/Marom"
+            android:textColor="@color/Black"
             android:textSize="16dp"
             android:textStyle="bold"
             android:typeface="serif" />
@@ -181,7 +179,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/textView10"
-        android:background="@color/green"
+        android:background="#f9f9f9"
         android:height="2dp" />
 
 
@@ -244,7 +242,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/textView13"
-        android:background="@color/green"
+        android:background="#f9f9f9"
         android:height="2dp"
          />
 
@@ -275,7 +273,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/linearLayout7"
-        android:background="@color/green"
+        android:background="#f9f9f9"
         android:height="2dp"
         />
 
@@ -300,7 +298,7 @@
         android:text="DTC: Buses Available on NON-AC , AC and Tourist Buses"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:gravity="center"
-        android:textColor="@color/green" 
+        android:textColor="#f9f9f9"
         android:textStyle="italic"
         android:typeface="serif"/>
  

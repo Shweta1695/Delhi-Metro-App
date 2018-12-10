@@ -38,7 +38,7 @@
                  android:textStyle="bold"
                  android:typeface="serif"
                  android:gravity="center"
-                 android:background="@color/Marom"
+                 android:background="@color/Black"
                  android:textColor="#F8ECE0"
                  android:text="METRO SERVICES"
                  android:height="22dp" />
@@ -85,7 +85,7 @@
            android:layout_weight="1"
            android:gravity="center"
            android:text="Station Detail"
-           android:textColor="@color/Marom"
+           android:textColor="@color/Black"
            android:textSize="19dp"
            android:textStyle="bold"
            android:typeface="serif" />
@@ -130,7 +130,7 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:text="Plan Route"
-           android:textColor="@color/Marom"
+           android:textColor="@color/Black"
            android:textSize="19dp"
            android:textStyle="bold"
            android:typeface="serif" />
@@ -176,7 +176,7 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:text="Line Detail"
-           android:textColor="@color/Marom"
+           android:textColor="@color/Black"
            android:textSize="19dp"
            android:textStyle="bold"
            android:typeface="serif" />
@@ -221,7 +221,7 @@
            android:layout_height="match_parent"
            android:layout_weight="1"
            android:text="Customer Care"
-           android:textColor="@color/Marom"
+           android:textColor="@color/Black"
            android:textSize="19dp"
            android:textStyle="bold"
            android:typeface="serif" />

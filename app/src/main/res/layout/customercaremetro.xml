@@ -9,7 +9,6 @@
         android:id="@+id/textView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/Marom"
         android:gravity="center"
         android:text="Metro Customer care"
         android:textSize="20dp"
@@ -59,8 +58,7 @@
         android:gravity="center"
         android:text="HeadOffice Address"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@color/orange"
-        android:textStyle="bold"
+        android:textColor="#f9f9f9"
         android:typeface="serif" />
 
     <TextView
@@ -103,7 +101,7 @@
         android:gravity="center"
         android:text="Call Customer care"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@color/orange"
+        android:textColor="#f9f9f9"
         android:textStyle="bold"
         android:typeface="serif" />
 
@@ -137,7 +135,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91-11-155370" 
                 android:textSize="20dp"
-                android:textColor="@color/orange"
+                android:textColor="#f9f9f9"
                 android:textStyle="bold"
                 android:gravity="center"/>
 
@@ -173,7 +171,7 @@
                 android:layout_height="wrap_content"
                 android:text="011-155370" 
                 android:textSize="20dp"
-                android:textColor="@color/orange"
+                android:textColor="#f9f9f9"
                 android:textStyle="bold"
                 android:gravity="center" />
 

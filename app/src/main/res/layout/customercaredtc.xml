@@ -9,8 +9,7 @@
         android:id="@+id/textView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/GreenColor"
-        android:textColor="@color/Marom"
+        android:textColor="#f9f9f9"
         android:gravity="center"
         android:textStyle="bold|normal"
         android:text="DTC Customer care"
@@ -62,7 +61,7 @@
         android:gravity="center"
         android:text="HeadOffice Address"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@color/orange"
+        android:textColor="#f0f0f0"
         android:textStyle="bold"
         android:typeface="serif" />
 
@@ -95,8 +94,8 @@
         android:id="@+id/textView8"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/Marom"
-        android:height="5dp" />
+        android:height="5dp"
+        android:background="@color/Marom" />
 
     <TextView
         android:id="@+id/textView9"
@@ -105,7 +104,7 @@
         android:gravity="center"
         android:text="Call Customer care"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@color/orange"
+        android:textColor="#f9f9f9"
         android:textStyle="bold"
         android:typeface="serif" />
 
@@ -139,7 +138,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91-11-41400400" 
                 android:textSize="20dp"
-                android:textColor="@color/orange"
+                android:textColor="#f9f9f9"
                 android:textStyle="bold"
                 android:gravity="center"/>
 
@@ -175,7 +174,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91-11-23370236" 
                 android:textSize="20dp"
-                android:textColor="@color/orange"
+                android:textColor="#f9f9f9"
                 android:textStyle="bold"
                 android:gravity="center" />
 
